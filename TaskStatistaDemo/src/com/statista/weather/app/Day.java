@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 /**
  * https://api.tutiempo.net/de/json.html
- * Here we define all the attribute that is needed to check weather and fetch the information from API by comparing the attribute
+ * Here we define all the attribute that is needed to check weather and fetch the information from API by comparing the attribute.
  * @author bhumi
  *
  */

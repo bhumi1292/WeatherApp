@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.statista.weather.app","l":"App"},{"p":"com.statista.weather.app","l":"DarkSkyWeatherService"},{"p":"com.statista.weather.app","l":"Day"},{"p":"com.statista.weather.app","l":"IWeatherService"},{"p":"com.statista.weather.app","l":"SevenDayWeather"}];updateSearchResults();

@@ -2,8 +2,8 @@ package com.statista.weather.app;
 
 import com.google.gson.Gson;
 /**
- * This class convert json data into a readable format and also fetch the data what we needed from Json
- * in sort we are converting 7 day data into readable formate.
+ * This class convert JSon data into a readable format and also fetch the data what we needed from JSon.
+ * in sort we are converting 7 day data into readable format.
  * @author bhumi Domadiya
  *
  */

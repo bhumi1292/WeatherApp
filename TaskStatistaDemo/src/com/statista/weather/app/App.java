@@ -29,7 +29,7 @@ import javafx.stage.Stage;
 /**
  * Demonstrate javaFx application which retrieve the weather information for
  * today and also forecast the weather information for next six days on given
- * location
+ * location.
  * 
  * @author bhumi Domadiya
  *
@@ -57,7 +57,7 @@ public class App extends Application {
 		title.setStyle("-fx-font-family: 'Anton', sans-serif;" + "-fx-font-size: 22;");
 		
 		//In the Map we have collection of key and value.
-		//the required cityId we get from the value and pass to the link for getting the correct Location
+		//the required cityId we get from the value and pass to the link for getting the correct Location.
 		Map<String, Integer> list = new HashMap<String, Integer>();
 		list.put("Krefeld", 48403);
 		list.put("Berlin", 44358);

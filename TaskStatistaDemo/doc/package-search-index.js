@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"TaskStatistaDemo","l":"com.statista.weather.app"}];updateSearchResults();
